@@ -1,3 +1,88 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "event-1",
+      "description": "A person giving a tech talk on a stage",
+      "imageUrl": "https://images.unsplash.com/photo-1582192493926-93f4847e1323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0ZWNoJTIwY29uZmVyZW5jZXxlbnwwfHx8fDE3NTg5MTAyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech conference"
+    },
+    {
+      "id": "event-2",
+      "description": "A group of people at a music festival",
+      "imageUrl": "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtdXNpYyUyMGZlc3RpdmFsfGVufDB8fHx8MTc1ODkwNjg2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music festival"
+    },
+    {
+      "id": "event-3",
+      "description": "An art exhibition with paintings on the wall",
+      "imageUrl": "https://images.unsplash.com/photo-1605429523419-d828acb941d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcnQlMjBnYWxsZXJ5fGVufDB8fHx8MTc1ODkxMDUwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art gallery"
+    },
+    {
+      "id": "event-4",
+      "description": "Students collaborating at a hackathon",
+      "imageUrl": "https://images.unsplash.com/photo-1540058404349-2e5fabf32d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHVkZW50cyUyMGNvZGluZ3xlbnwwfHx8fDE3NTg4NzA3MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students coding"
+    },
+    {
+      "id": "event-5",
+      "description": "A career fair with booths and students talking to recruiters",
+      "imageUrl": "https://images.unsplash.com/photo-1561489422-45de3d015e3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxqb2IlMjBmYWlyfGVufDB8fHx8MTc1ODkzNDA1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "job fair"
+    },
+    {
+      "id": "club-1",
+      "description": "A group of students coding together",
+      "imageUrl": "https://images.unsplash.com/photo-1581087724844-037b13e16b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb2RpbmclMjB0ZWFtd29ya3xlbnwwfHx8fDE3NTg5MzQwNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coding teamwork"
+    },
+    {
+      "id": "club-2",
+      "description": "People on a stage for a debate",
+      "imageUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwdWJsaWMlMjBzcGVha2luZ3xlbnwwfHx8fDE3NTg5MTk0NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "public speaking"
+    },
+    {
+      "id": "club-3",
+      "description": "A telescope pointing at the night sky",
+      "imageUrl": "https://images.unsplash.com/photo-1743147177981-2ae6f1f97e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhc3Ryb25vbXklMjB0ZWxlc2NvcGV8ZW58MHx8fHwxNzU4ODc1ODM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "astronomy telescope"
+    },
+    {
+      "id": "club-4",
+      "description": "A person painting on a canvas",
+      "imageUrl": "https://images.unsplash.com/photo-1614107070261-2aa1304618f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcnRpc3QlMjBwYWludGluZ3xlbnwwfHx8fDE3NTg5MDQ0MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artist painting"
+    },
+    {
+      "id": "club-5",
+      "description": "People playing chess",
+      "imageUrl": "https://images.unsplash.com/photo-1586165368502-1bad197a6461?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaGVzcyUyMGdhbWV8ZW58MHx8fHwxNzU4ODM2MzMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chess game"
+    },
+    {
+      "id": "club-6",
+      "description": "People hiking in the mountains",
+      "imageUrl": "https://images.unsplash.com/photo-1638635900836-26badb9fb9c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb3VudGFpbiUyMGhpa2luZ3xlbnwwfHx8fDE3NTg5MzQwNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain hiking"
+    },
+    {
+      "id": "event-6",
+      "description": "Students celebrating graduation",
+      "imageUrl": "https://images.unsplash.com/photo-1719409016135-3aabda0532e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3R1ZGVudCUyMGdyYWR1YXRpb258ZW58MHx8fHwxNzU4ODgxMTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student graduation"
+    },
+    {
+      "id": "event-7",
+      "description": "A cultural dance performance",
+      "imageUrl": "https://images.unsplash.com/photo-1650709244902-04b47a4b4f76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0cmFkaXRpb25hbCUyMGRhbmNlfGVufDB8fHx8MTc1ODkwMTQ3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "traditional dance"
+    },
+    {
+      "id": "contact-hero",
+      "description": "A modern university campus building",
+      "imageUrl": "https://images.unsplash.com/photo-1519662978799-2f05096d3636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzU4ODM4NDQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern architecture"
+    }
+  ]
 }

@@ -16,11 +16,11 @@ export default function Home() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center space-y-6 text-center">
               <div className="space-y-4">
-                <h1 className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-br from-foreground/90 to-foreground/50 leading-tight">
-                  Connect Your Campus Life
+                <h1 className="text-5xl md:text-7xl lg:text-8xl font-black tracking-tighter text-transparent bg-clip-text bg-gradient-to-br from-primary-foreground to-primary-foreground/60 leading-tight">
+                  Your Campus, Synchronised.
                 </h1>
                 <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
-                  Discover events, join clubs, and manage your schedule. Campus Hub is your all-in-one platform for a vibrant university experience.
+                  Unite. Innovate. Launch. Discover events, join clubs, and manage your schedule. Campus Hub is your all-in-one platform for a vibrant university experience.
                 </p>
               </div>
               <div className="space-x-4">

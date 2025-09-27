@@ -10,42 +10,42 @@
     --card-foreground: 255 20% 15%;
     --popover: 255 100% 100%;
     --popover-foreground: 255 20% 15%;
-    --primary: 255 60% 71%;
+    --primary: 210 100% 50%; /* Blue */
     --primary-foreground: 255 100% 100%;
     --secondary: 255 60% 90%;
     --secondary-foreground: 255 20% 15%;
     --muted: 255 60% 94%;
     --muted-foreground: 255 20% 45%;
-    --accent: 47 100% 67%;
+    --accent: 300 100% 70%; /* Pink/Purple */
     --accent-foreground: 47 40% 15%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
     --border: 255 60% 88%;
     --input: 255 60% 92%;
-    --ring: 255 60% 71%;
+    --ring: 210 100% 50%;
     --radius: 0.75rem;
   }
 
   .dark {
-    --background: 255 15% 8%;
+    --background: 233 100% 4%; /* Near black with blue tint */
     --foreground: 255 10% 85%;
-    --card: 255 15% 12%;
+    --card: 240 14% 10%;
     --card-foreground: 255 10% 85%;
-    --popover: 255 15% 8%;
+    --popover: 233 100% 4%;
     --popover-foreground: 255 10% 85%;
-    --primary: 255 60% 71%;
+    --primary: 210 100% 50%; /* Blue */
     --primary-foreground: 255 100% 100%;
-    --secondary: 255 15% 20%;
+    --secondary: 240 10% 15%;
     --secondary-foreground: 255 10% 90%;
-    --muted: 255 15% 20%;
+    --muted: 240 10% 15%;
     --muted-foreground: 255 10% 60%;
-    --accent: 47 100% 67%;
+    --accent: 300 100% 70%; /* Pink/Purple */
     --accent-foreground: 47 40% 15%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 0 0% 98%;
-    --border: 255 15% 25%;
-    --input: 255 15% 25%;
-    --ring: 255 70% 80%;
+    --border: 240 10% 20%;
+    --input: 240 10% 20%;
+    --ring: 210 80% 60%;
   }
 }
 
@@ -64,12 +64,12 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: radial-gradient(ellipse 80% 50% at 50% -20%, hsla(var(--primary), 0.1), transparent);
+    background: linear-gradient(108deg, hsl(235, 100%, 8%) 2.22%, hsl(258, 95%, 12%) 53.32%, hsl(234, 100%, 9%) 98.44%);
     z-index: -1;
     pointer-events: none;
   }
 
   .dark body::before {
-    background: radial-gradient(ellipse 80% 50% at 50% -20%, hsla(var(--primary), 0.15), transparent);
+     background: linear-gradient(108deg, hsl(235, 100%, 8%) 2.22%, hsl(258, 95%, 12%) 53.32%, hsl(234, 100%, 9%) 98.44%);
   }
 }
